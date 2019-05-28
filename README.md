@@ -4,7 +4,7 @@ The source code is originally from the sourceforge site.
 Check the original source site for the jvftp <http://jvftp.sourceforge.net/>
 
 Modified:
-- unexpected characters in the file list.
+- <b>unexpected characters in the file list.</b>
 I've added a label and a text field for the encoding like a setControlEncoding method in the apache commons.
 So, you can change the character set easily if you've got an unexpected characters displaying on a ftp file list.
 
